@@ -1,6 +1,4 @@
-//Joel Asante
-//CS311
-//Homework 3--- BlackJack Game from Dealer Simulation
+// BlackJack Game from Dealer Simulation
 
 //including the libraries
 #include <iostream>
